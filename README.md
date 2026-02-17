@@ -22,7 +22,7 @@ By utilizing CSS Flexbox, you can easily stitch as many `rainbow.svg` tiles toge
 
 ## 🚀 Usage
 
-You can create a perfect, seamless animation simply by putting the SVGs next to each other inside a flex container.
+You can create a perfect, seamless animation simply by putting the SVGs next to each other inside a flex container. If you notice weird gaps, set the `margin-inline-start` of each tile to `-0.5px`.
 
 ### HTML
 
